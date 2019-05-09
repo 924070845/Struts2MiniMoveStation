@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="20180925:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff326f47-95b3-465a-8404-e7c1d1b26c6b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="928089800">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gif" value="2" />
+          <entry key="java" value="10" />
+          <entry key="jpg" value="3" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="22" />
+          <entry key="png" value="2" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="7" />
+          <entry key="JAVA" value="10" />
+          <entry key="JSP" value="22" />
+          <entry key="JavaScript" value="1" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="691" />
+          <entry key="jsp" value="592" />
+          <entry key="xml" value="332" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="691" />
+          <entry key="JSP" value="592" />
+          <entry key="XML" value="332" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1495272460">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="css" value="7" />
+          <entry key="html" value="3" />
+          <entry key="java" value="61" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="5" />
+          <entry key="jsp" value="22" />
+          <entry key="png" value="1" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="7" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="61" />
+          <entry key="JSP" value="22" />
+          <entry key="JavaScript" value="5" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="62" />
+          <entry key="dummy" value="17" />
+          <entry key="html" value="196" />
+          <entry key="java" value="2220" />
+          <entry key="jsp" value="653" />
+          <entry key="xml" value="106" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="63" />
+          <entry key="HTML" value="196" />
+          <entry key="JAVA" value="2220" />
+          <entry key="JSP" value="652" />
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="XML" value="106" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-333182933">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="62" />
+          <entry key="jsp" value="9" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="62" />
+          <entry key="JSP" value="9" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="82" />
+          <entry key="jsp" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="82" />
+          <entry key="JSP" value="36" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1828147298">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="68" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.18" value="7" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.20" value="5" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="3" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="3" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="4" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.31" value="3" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="79" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="AdminAction" value="1" />
+          <entry key="AdminDao" value="1" />
+          <entry key="CommentAction" value="1" />
+          <entry key="CommentDao" value="3" />
+          <entry key="IBaseDao" value="3" />
+          <entry key="MovieAction" value="3" />
+          <entry key="MovieDao" value="1" />
+          <entry key="UserAction" value="1" />
+          <entry key="class" value="1" />
+          <entry key="css" value="24" />
+          <entry key="dao" value="2" />
+          <entry key="gif" value="3" />
+          <entry key="html" value="29" />
+          <entry key="java" value="336" />
+          <entry key="jpg" value="26" />
+          <entry key="js" value="19" />
+          <entry key="json" value="2" />
+          <entry key="jsp" value="449" />
+          <entry key="md" value="2" />
+          <entry key="png" value="5" />
+          <entry key="py" value="1" />
+          <entry key="rnc" value="1" />
+          <entry key="scss" value="3" />
+          <entry key="svg" value="2" />
+          <entry key="textile" value="1" />
+          <entry key="ttf" value="1" />
+          <entry key="txt" value="1" />
+          <entry key="woff" value="1" />
+          <entry key="xml" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="24" />
+          <entry key="Font" value="1" />
+          <entry key="HTML" value="29" />
+          <entry key="Image" value="34" />
+          <entry key="JAVA" value="336" />
+          <entry key="JSON" value="2" />
+          <entry key="JSP" value="449" />
+          <entry key="JavaScript" value="19" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="SCSS" value="3" />
+          <entry key="SVG" value="2" />
+          <entry key="UML" value="16" />
+          <entry key="XML" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="276" />
+          <entry key="dummy" value="75" />
+          <entry key="html" value="151" />
+          <entry key="java" value="23063" />
+          <entry key="js" value="124" />
+          <entry key="jsp" value="7254" />
+          <entry key="xml" value="3581" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="276" />
+          <entry key="HTML" value="151" />
+          <entry key="JAVA" value="23060" />
+          <entry key="JSP" value="7254" />
+          <entry key="JavaScript" value="124" />
+          <entry key="PLAIN_TEXT" value="75" />
+          <entry key="SQL" value="3" />
+          <entry key="XML" value="3581" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Struts2MiniMoveStation" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/action/MovieAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <element signature="method#insertMovie#0;class#MovieAction#0" />
+                <element signature="method#selectAllMovie#0;class#MovieAction#0" />
+                <element signature="method#deleteMovie#0;class#MovieAction#0" />
+                <element signature="method#selectIDMovie#0;class#MovieAction#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/conn/Conn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/admin_list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/movie/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2669">
+              <caret line="157" column="46" selection-start-line="157" selection-start-column="46" selection-end-line="157" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/struts.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <element signature="n#interceptors#0;n#package#0;n#struts#0;n#!!top" />
+                <element signature="n#action#0;n#package#0;n#struts#0;n#!!top" />
+                <element signature="n#action#2;n#package#0;n#struts#0;n#!!top" />
+                <element signature="n#action#4;n#package#0;n#struts#0;n#!!top" />
+                <element signature="n#action#5;n#package#0;n#struts#0;n#!!top" />
+                <element signature="n#action#6;n#package#0;n#struts#0;n#!!top" />
+                <element signature="n#action#7;n#package#0;n#struts#0;n#!!top" />
+                <element signature="n#action#8;n#package#0;n#struts#0;n#!!top" />
+                <element signature="n#action#9;n#package#0;n#struts#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="struts_2_5" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>input-group</find>
+      <find>test</find>
+      <find>font</find>
+      <find>nav navbar-nav navbar-right</find>
+      <find>treeview</find>
+      <find>.col-md-3</find>
+      <find>face</find>
+      <find>btn</find>
+      <find>btn btn-primary</find>
+      <find>panel panel-info</find>
+      <find>panel panel-primary</find>
+      <find>id</find>
+      <find>img</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/java/service/ILoginService.java" />
+        <option value="$PROJECT_DIR$/src/com/java/service/IPasswordService.java" />
+        <option value="$PROJECT_DIR$/src/com/java/dao/RootDao.java" />
+        <option value="$PROJECT_DIR$/src/com/java/action/UserAction.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/2-movie/None.html" />
+        <option value="$PROJECT_DIR$/src/com/java/action/PublicAction.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/2-movie/user.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/2-movie/pwd.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/2-movie/comments.jsp" />
+        <option value="$PROJECT_DIR$/src/com/java/dao/MovieDao.java" />
+        <option value="$PROJECT_DIR$/src/com/java/service/impl/UserService.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/2-movie/footer.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/2-movie/nav.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/movie/play.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/movie/index.jsp" />
+        <option value="$PROJECT_DIR$/src/com/java/service/impl/LabelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/java/service/infce/IRootService.java" />
+        <option value="$PROJECT_DIR$/src/com/java/service/infce/IAdminService.java" />
+        <option value="$PROJECT_DIR$/src/com/java/service/infce/ICommentService.java" />
+        <option value="$PROJECT_DIR$/src/com/java/service/infce/ILabelService.java" />
+        <option value="$PROJECT_DIR$/src/com/java/service/infce/IMovieService.java" />
+        <option value="$PROJECT_DIR$/src/com/java/service/infce/IUserService.java" />
+        <option value="$PROJECT_DIR$/src/com/java/service/infce/IBaseService.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/comment_list.jsp" />
+        <option value="$PROJECT_DIR$/src/com/java/service/intfce/IBaseService.java" />
+        <option value="$PROJECT_DIR$/src/com/java/dao/LabelDao.java" />
+        <option value="$PROJECT_DIR$/src/com/java/action/LabelAction.java" />
+        <option value="$PROJECT_DIR$/src/com/java/service/impl/ILabelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/root_fd_login.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/login.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/movie/register.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/movie/comments.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/movie/pwd.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/movie/None.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/movie/footer.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/movie/login.jsp" />
+        <option value="$PROJECT_DIR$/src/com/java/dao/AdminDao.java" />
+        <option value="$PROJECT_DIR$/src/com/java/dao/LoginDao.java" />
+        <option value="$PROJECT_DIR$/src/com/java/dao/LoginService.java" />
+        <option value="$PROJECT_DIR$/src/com/java/action/LoginAction.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/header.jsp" />
+        <option value="$PROJECT_DIR$/src/com/java/action/AdminAction.java" />
+        <option value="$PROJECT_DIR$/src/com/java/action/IndexAction.java" />
+        <option value="$PROJECT_DIR$/src/com/java/action/RootAction.java" />
+        <option value="$PROJECT_DIR$/src/com/java/dao/CommentDao.java" />
+        <option value="$PROJECT_DIR$/src/com/java/action/MovieAction.java" />
+        <option value="$PROJECT_DIR$/src/com/java/entity/Movie.java" />
+        <option value="$PROJECT_DIR$/src/struts.xml" />
+        <option value="$PROJECT_DIR$/web/testwangting.jsp" />
+        <option value="$PROJECT_DIR$/src/com/java/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/java/interceptor/LoginInterceptor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1104" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Struts2MiniMoveStation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Struts2MiniMoveStation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Struts2MiniMoveStation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Struts2MiniMoveStation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Struts2MiniMoveStation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Struts2MiniMoveStation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Struts2MiniMoveStation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Struts2MiniMoveStation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Struts2MiniMoveStation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Struts2MiniMoveStation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Struts2MiniMoveStation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Struts2MiniMoveStation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="conn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Struts2MiniMoveStation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Struts2MiniMoveStation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Struts2MiniMoveStation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Struts2MiniMoveStation" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Struts2MiniMoveStation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Struts2MiniMoveStation" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Struts2MiniMoveStation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Struts2MiniMoveStation" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="clear&#9;ACTION&#9;TextComponent.ClearAction" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557033027808" />
+    <property name="idea.background.editor" value="C:\Users\92407\Desktop\新分类\IDEABackgroundImage\面向对象.jpg,0,scale,center" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25268817" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Software_Program\Tomcat\programs_myself\Struts2MiniMoveStation\web\WEB-INF\admin" />
+      <recent name="D:\Software_Program\Tomcat\programs_myself\Struts2MiniMoveStation\web\static\admin\images" />
+      <recent name="D:\Software_Program\Tomcat\programs_myself\Struts2MiniMoveStation\web\3-admin" />
+      <recent name="D:\Software_Program\Tomcat\programs_myself\Struts2MiniMoveStation\web\static\base\css" />
+      <recent name="D:\Software_Program\Tomcat\programs_myself\Struts2MiniMoveStation\web\static\base\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java.action" />
+      <recent name="com.java.interceptor" />
+      <recent name="com.java.conn" />
+      <recent name="nuc.fd.dao" />
+      <recent name="nuc.fd.conn" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Software_Program\Tomcat\programs_myself\Struts2MiniMoveStation\web\static\base\images" />
+      <recent name="D:\Software_Program\Tomcat\programs_myself\Struts2MiniMoveStation\web\static\admin\images" />
+      <recent name="D:\Software_Program\Tomcat\programs_myself\Struts2MiniMoveStation\web\WEB-INF\3-admin" />
+      <recent name="D:\Software_Program\Tomcat\programs_myself\Struts2MiniMoveStation\web\3-admin" />
+      <recent name="D:\Software_Program\Tomcat\programs_myself\Struts2MiniMoveStation\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.32" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <deployment>
+        <artifact name="20180925:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_32_20180925" />
+        <option name="HTTP_PORT" value="8088" />
+        <option name="JNDI_PORT" value="1097" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63056" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="JAVA_TOOL_OPTIONS" />
+          <option name="VALUE" value="-Dfile.encoding=UTF-8" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="20180925:war exploded" />
+        </option>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff326f47-95b3-465a-8404-e7c1d1b26c6b" name="Default Changelist" comment="" />
+      <created>1537866857507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537866857507</updated>
+      <workItem from="1537866865677" duration="6845000" />
+      <workItem from="1538022714876" duration="15276000" />
+      <workItem from="1538098751282" duration="28337000" />
+      <workItem from="1538195631155" duration="2661000" />
+      <workItem from="1538198531125" duration="360000" />
+      <workItem from="1538198943532" duration="912000" />
+      <workItem from="1538199901959" duration="85000" />
+      <workItem from="1538210431846" duration="3197000" />
+      <workItem from="1538217468451" duration="600000" />
+      <workItem from="1538219697794" duration="1506000" />
+      <workItem from="1538223492119" duration="71000" />
+      <workItem from="1538988622380" duration="437000" />
+      <workItem from="1539004886330" duration="621000" />
+      <workItem from="1539063657819" duration="684000" />
+      <workItem from="1539078353598" duration="3533000" />
+      <workItem from="1539310183251" duration="36000" />
+      <workItem from="1539310271209" duration="621000" />
+      <workItem from="1539842789951" duration="2809000" />
+      <workItem from="1542333097644" duration="93000" />
+      <workItem from="1542333818310" duration="1521000" />
+      <workItem from="1542344995278" duration="9293000" />
+      <workItem from="1542364564657" duration="3893000" />
+      <workItem from="1542368540211" duration="978000" />
+      <workItem from="1542369753663" duration="465000" />
+      <workItem from="1542370390277" duration="598000" />
+      <workItem from="1542372162941" duration="6178000" />
+      <workItem from="1542608892042" duration="65000" />
+      <workItem from="1542782559529" duration="13635000" />
+      <workItem from="1542800893534" duration="8478000" />
+      <workItem from="1542872639810" duration="16533000" />
+      <workItem from="1542949997576" duration="6631000" />
+      <workItem from="1542961040039" duration="10787000" />
+      <workItem from="1542975834003" duration="11806000" />
+      <workItem from="1543285217283" duration="2503000" />
+      <workItem from="1543290133318" duration="12634000" />
+      <workItem from="1543307929689" duration="3632000" />
+      <workItem from="1543311681045" duration="2468000" />
+      <workItem from="1543314478193" duration="16264000" />
+      <workItem from="1543366743865" duration="15503000" />
+      <workItem from="1543387586881" duration="10795000" />
+      <workItem from="1543403188285" duration="6666000" />
+      <workItem from="1543410258748" duration="6817000" />
+      <workItem from="1543459342391" duration="8139000" />
+      <workItem from="1543473354628" duration="884000" />
+      <workItem from="1543477052956" duration="11644000" />
+      <workItem from="1543538492437" duration="7867000" />
+      <workItem from="1543546427880" duration="1461000" />
+      <workItem from="1543548217234" duration="28511000" />
+      <workItem from="1543630517535" duration="867000" />
+      <workItem from="1543631449074" duration="1304000" />
+      <workItem from="1543633584880" duration="21261000" />
+      <workItem from="1543663205142" duration="4667000" />
+      <workItem from="1543670280413" duration="4106000" />
+      <workItem from="1543715382369" duration="22623000" />
+      <workItem from="1543816906192" duration="1337000" />
+      <workItem from="1543844678444" duration="486000" />
+      <workItem from="1544168977774" duration="907000" />
+      <workItem from="1544177500587" duration="21312000" />
+      <workItem from="1544199388630" duration="67000" />
+      <workItem from="1544199586037" duration="182000" />
+      <workItem from="1544235459606" duration="6214000" />
+      <workItem from="1544254765891" duration="14950000" />
+      <workItem from="1544279000047" duration="734000" />
+      <workItem from="1544280114113" duration="195000" />
+      <workItem from="1544319591817" duration="6611000" />
+      <workItem from="1544350739957" duration="876000" />
+      <workItem from="1544359791996" duration="2393000" />
+      <workItem from="1544370986808" duration="82000" />
+      <workItem from="1544372177937" duration="638000" />
+      <workItem from="1544418573684" duration="399000" />
+      <workItem from="1544487597488" duration="1462000" />
+      <workItem from="1544489153128" duration="15992000" />
+      <workItem from="1544531218810" duration="888000" />
+      <workItem from="1544606547874" duration="300000" />
+      <workItem from="1544612885674" duration="130000" />
+      <workItem from="1544617664555" duration="1144000" />
+      <workItem from="1544887508272" duration="10000" />
+      <workItem from="1545733114659" duration="172000" />
+      <workItem from="1545734769001" duration="1291000" />
+      <workItem from="1545823532663" duration="1827000" />
+      <workItem from="1545911182337" duration="392000" />
+      <workItem from="1546841646932" duration="3139000" />
+      <workItem from="1546910132560" duration="1233000" />
+      <workItem from="1546917060931" duration="1829000" />
+      <workItem from="1547015658687" duration="907000" />
+      <workItem from="1547031893075" duration="73000" />
+      <workItem from="1547124387305" duration="1988000" />
+      <workItem from="1547369386641" duration="1367000" />
+      <workItem from="1547600729996" duration="83000" />
+      <workItem from="1548480559491" duration="335000" />
+      <workItem from="1552641757026" duration="493000" />
+      <workItem from="1552747864094" duration="85000" />
+      <workItem from="1555063750171" duration="461000" />
+      <workItem from="1555728349875" duration="64000" />
+      <workItem from="1557030373265" duration="728000" />
+      <workItem from="1557044066489" duration="2188000" />
+      <workItem from="1557062474594" duration="1771000" />
+      <workItem from="1557136157289" duration="581000" />
+      <workItem from="1557140761246" duration="576000" />
+      <workItem from="1557188394543" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="449079000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950166" visible="true" weight="0.23282135" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50248754" side_tool="true" weight="0.19401778" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50498337" side_tool="true" weight="0.22069523" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" type="SLIDING" weight="0.33167496" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966834" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.31570512" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32890365" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32890365" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3283582" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.17910448" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" visible="true" weight="0.17607974" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32890365" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32983023" />
+      <window_info anchor="right" id="SciView" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49751243" visible="true" weight="0.19401778" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50248754" side_tool="true" weight="0.19401778" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5030769" side_tool="true" weight="0.14220877" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" type="SLIDING" weight="0.86401325" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966834" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3294702" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33001658" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3283582" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.17910448" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3294702" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32983023" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../../../Struts2/struts-2.5.17/lib/struts2-core-2.5.17.jar!/com/opensymphony/xwork2/ActionSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/movie/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="39" column="47" lean-forward="true" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.java.dao.AdminDao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.java.dao.AdminDao</OriginalElement>
+          <nodes>
+            <node x="" y="">com.java.dao.AdminDao</node>
+            <node x="" y="">com.java.dao.IBaseDao</node>
+            <node x="" y="">com.java.dao.ILoginDao</node>
+            <node x="" y="">com.java.dao.IPasswordDao</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="322.0" y="217.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/root_fd_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/com.java.dao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.java.dao</OriginalElement>
+          <nodes>
+            <node x="1455.0" y="310.5">com.java.dao.RootDao</node>
+            <node x="1171.0" y="218.0">com.java.dao.AdminDao</node>
+            <node x="635.5" y="0.0">com.java.dao.IBaseDao</node>
+            <node x="1408.6166666666668" y="46.0">com.java.dao.ILoginDao</node>
+            <node x="901.0" y="195.0">com.java.dao.UserDao</node>
+            <node x="346.0" y="252.5">com.java.dao.LabelDao</node>
+            <node x="613.0" y="229.5">com.java.dao.MovieDao</node>
+            <node x="1093.5777777777778" y="34.5">com.java.dao.IPasswordDao</node>
+            <node x="0.0" y="241.0">com.java.dao.CommentDao</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.java.dao.AdminDao" target="com.java.dao.IPasswordDao">
+              <point x="0.0" y="-119.0" />
+              <point x="1303.0" y="175.0" />
+              <point x="1267.5777777777778" y="175.0" />
+              <point x="58.0" y="38.0" />
+            </edge>
+            <edge source="com.java.dao.LabelDao" target="com.java.dao.IBaseDao">
+              <point x="0.0" y="-84.5" />
+              <point x="469.5" y="175.0" />
+              <point x="702.4000000000001" y="175.0" />
+              <point x="-44.60000000000002" y="72.5" />
+            </edge>
+            <edge source="com.java.dao.AdminDao" target="com.java.dao.IBaseDao">
+              <point x="-88.0" y="-119.0" />
+              <point x="1215.0" y="165.0" />
+              <point x="836.2" y="165.0" />
+              <point x="89.19999999999993" y="72.5" />
+            </edge>
+            <edge source="com.java.dao.MovieDao" target="com.java.dao.IBaseDao">
+              <point x="0.0" y="-107.5" />
+              <point x="0.0" y="72.5" />
+            </edge>
+            <edge source="com.java.dao.CommentDao" target="com.java.dao.IBaseDao">
+              <point x="0.0" y="-96.0" />
+              <point x="163.0" y="165.0" />
+              <point x="657.8" y="165.0" />
+              <point x="-89.20000000000005" y="72.5" />
+            </edge>
+            <edge source="com.java.dao.UserDao" target="com.java.dao.IPasswordDao">
+              <point x="62.5" y="-142.0" />
+              <point x="1088.5" y="175.0" />
+              <point x="1151.5777777777778" y="175.0" />
+              <point x="-58.0" y="38.0" />
+            </edge>
+            <edge source="com.java.dao.UserDao" target="com.java.dao.IBaseDao">
+              <point x="-62.5" y="-142.0" />
+              <point x="963.5" y="175.0" />
+              <point x="791.5999999999999" y="175.0" />
+              <point x="44.59999999999991" y="72.5" />
+            </edge>
+            <edge source="com.java.dao.RootDao" target="com.java.dao.ILoginDao">
+              <point x="0.0" y="-26.5" />
+              <point x="1539.5" y="175.0" />
+              <point x="1520.3666666666668" y="175.0" />
+              <point x="37.25" y="26.5" />
+            </edge>
+            <edge source="com.java.dao.AdminDao" target="com.java.dao.ILoginDao">
+              <point x="88.0" y="-119.0" />
+              <point x="1391.0" y="175.0" />
+              <point x="1445.8666666666668" y="175.0" />
+              <point x="-37.25" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0155717761557177" x="625.0" y="148.0" />
+          <SelectedNodes>
+            <node>com.java.dao.CommentDao</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.java.action.AdminAction">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.java.action.AdminAction</OriginalElement>
+          <nodes>
+            <node x="1328.0" y="138.0">com.opensymphony.xwork2.Validateable</node>
+            <node x="1118.75" y="942.0">com.opensymphony.xwork2.ModelDriven</node>
+            <node x="905.9999999999999" y="115.0">com.opensymphony.xwork2.LocaleProvider</node>
+            <node x="748.75" y="389.0">com.opensymphony.xwork2.ActionSupport</node>
+            <node x="369.9999999999999" y="0.0">com.opensymphony.xwork2.interceptor.ValidationAware</node>
+            <node x="895.25" y="1598.0">com.java.action.AdminAction</node>
+            <node x="727.9999999999999" y="80.0">com.opensymphony.xwork2.Action</node>
+            <node x="0.0" y="11.5">com.opensymphony.xwork2.TextProvider</node>
+            <node x="1195.0" y="149.5">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="java.io.Serializable">
+              <point x="87.5" y="-579.5" />
+              <point x="1011.25" y="359.0" />
+              <point x="1251.5" y="359.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="com.opensymphony.xwork2.interceptor.ValidationAware">
+              <point x="-87.50000000000006" y="-579.5" />
+              <point x="836.2499999999999" y="359.0" />
+              <point x="538.9999999999999" y="359.0" />
+              <point x="0.0" y="164.5" />
+            </edge>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="com.opensymphony.xwork2.Action">
+              <point x="-29.166666666666742" y="-579.5" />
+              <point x="894.5833333333333" y="349.0" />
+              <point x="806.9999999999999" y="349.0" />
+              <point x="0.0" y="84.5" />
+            </edge>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="com.opensymphony.xwork2.TextProvider">
+              <point x="-145.83333333333343" y="-579.5" />
+              <point x="777.9166666666665" y="369.0" />
+              <point x="175.0" y="369.0" />
+              <point x="0.0" y="153.0" />
+            </edge>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="com.opensymphony.xwork2.Validateable">
+              <point x="145.83333333333337" y="-579.5" />
+              <point x="1069.5833333333333" y="369.0" />
+              <point x="1402.5" y="369.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.java.action.AdminAction" target="com.opensymphony.xwork2.ModelDriven">
+              <point x="80.74999999999994" y="-280.0" />
+              <point x="1137.5" y="1573.0" />
+              <point x="1189.75" y="1573.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="com.opensymphony.xwork2.LocaleProvider">
+              <point x="29.16666666666663" y="-579.5" />
+              <point x="952.9166666666666" y="349.0" />
+              <point x="1040.5" y="349.0" />
+              <point x="0.0" y="49.5" />
+            </edge>
+            <edge source="com.java.action.AdminAction" target="com.opensymphony.xwork2.ActionSupport">
+              <point x="-80.75000000000006" y="-280.0" />
+              <point x="976.0" y="1573.0" />
+              <point x="923.75" y="1573.0" />
+              <point x="0.0" y="579.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0745638200183658" x="1105.0" y="1786.0" />
+          <SelectedNodes>
+            <node>com.java.action.AdminAction</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.java.action.UserAction">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.java.action.UserAction</OriginalElement>
+          <nodes>
+            <node x="920.75" y="1598.0">com.java.action.UserAction</node>
+            <node x="1328.0" y="138.0">com.opensymphony.xwork2.Validateable</node>
+            <node x="1118.75" y="942.0">com.opensymphony.xwork2.ModelDriven</node>
+            <node x="906.0" y="115.0">com.opensymphony.xwork2.LocaleProvider</node>
+            <node x="748.75" y="389.0">com.opensymphony.xwork2.ActionSupport</node>
+            <node x="370.0" y="0.0">com.opensymphony.xwork2.interceptor.ValidationAware</node>
+            <node x="728.0" y="80.0">com.opensymphony.xwork2.Action</node>
+            <node x="0.0" y="11.5">com.opensymphony.xwork2.TextProvider</node>
+            <node x="1195.0" y="149.5">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="java.io.Serializable">
+              <point x="87.5" y="-579.5" />
+              <point x="1011.25" y="359.0" />
+              <point x="1251.5" y="359.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.java.action.UserAction" target="com.opensymphony.xwork2.ActionSupport">
+              <point x="-68.0" y="-544.5" />
+              <point x="988.75" y="1573.0" />
+              <point x="923.75" y="1573.0" />
+              <point x="0.0" y="579.5" />
+            </edge>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="com.opensymphony.xwork2.interceptor.ValidationAware">
+              <point x="-87.50000000000006" y="-579.5" />
+              <point x="836.2499999999999" y="359.0" />
+              <point x="539.0" y="359.0" />
+              <point x="0.0" y="164.5" />
+            </edge>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="com.opensymphony.xwork2.Action">
+              <point x="-29.16666666666663" y="-579.5" />
+              <point x="894.5833333333333" y="349.0" />
+              <point x="807.0" y="349.0" />
+              <point x="0.0" y="84.5" />
+            </edge>
+            <edge source="com.java.action.UserAction" target="com.opensymphony.xwork2.ModelDriven">
+              <point x="68.0" y="-544.5" />
+              <point x="1124.75" y="1573.0" />
+              <point x="1189.75" y="1573.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="com.opensymphony.xwork2.TextProvider">
+              <point x="-145.83333333333343" y="-579.5" />
+              <point x="777.9166666666665" y="369.0" />
+              <point x="175.0" y="369.0" />
+              <point x="0.0" y="153.0" />
+            </edge>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="com.opensymphony.xwork2.Validateable">
+              <point x="145.83333333333337" y="-579.5" />
+              <point x="1069.5833333333333" y="369.0" />
+              <point x="1402.5" y="369.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.opensymphony.xwork2.ActionSupport" target="com.opensymphony.xwork2.LocaleProvider">
+              <point x="29.16666666666663" y="-579.5" />
+              <point x="952.9166666666665" y="349.0" />
+              <point x="1040.5" y="349.0" />
+              <point x="0.0" y="49.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0209087550794238" x="992.0" y="2043.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.java.dao.IBaseDao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.java.dao.IBaseDao</OriginalElement>
+          <nodes>
+            <node x="" y="">com.java.dao.IBaseDao</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="111.0" y="73.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.java.dao.CommentDao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.java.dao.CommentDao</OriginalElement>
+          <nodes>
+            <node x="51.5" y="0.0">com.java.dao.IBaseDao</node>
+            <node x="0.0" y="196.0">com.java.dao.CommentDao</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.java.dao.CommentDao" target="com.java.dao.IBaseDao">
+              <point x="0.0" y="-96.5" />
+              <point x="0.0" y="73.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-103.0" y="137.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.java.action.MovieAction">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.java.action.MovieAction</OriginalElement>
+          <nodes>
+            <node x="" y="">com.opensymphony.xwork2.Validateable</node>
+            <node x="" y="">com.opensymphony.xwork2.ModelDriven</node>
+            <node x="" y="">com.opensymphony.xwork2.LocaleProvider</node>
+            <node x="" y="">com.opensymphony.xwork2.ActionSupport</node>
+            <node x="" y="">com.opensymphony.xwork2.interceptor.ValidationAware</node>
+            <node x="" y="">com.opensymphony.xwork2.Action</node>
+            <node x="" y="">com.java.action.MovieAction</node>
+            <node x="" y="">com.opensymphony.xwork2.TextProvider</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.132775398987933" x="793.0" y="2087.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.java.dao.MovieDao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.java.dao.MovieDao</OriginalElement>
+          <nodes>
+            <node x="" y="">com.java.dao.IBaseDao</node>
+            <node x="" y="">com.java.dao.MovieDao</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="134.0" y="205.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.java.action.CommentAction">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.java.action.CommentAction</OriginalElement>
+          <nodes>
+            <node x="" y="">com.opensymphony.xwork2.Validateable</node>
+            <node x="" y="">com.opensymphony.xwork2.ModelDriven</node>
+            <node x="" y="">com.opensymphony.xwork2.LocaleProvider</node>
+            <node x="" y="">com.opensymphony.xwork2.ActionSupport</node>
+            <node x="" y="">com.opensymphony.xwork2.interceptor.ValidationAware</node>
+            <node x="" y="">com.opensymphony.xwork2.Action</node>
+            <node x="" y="">com.java.action.CommentAction</node>
+            <node x="" y="">com.opensymphony.xwork2.TextProvider</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.5866730584851398" x="1020.0" y="1863.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/dao/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/dao/LoginDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/action/LoginAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/action/IndexAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="40" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/action/RootAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/dao/IPasswordDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/dao/ILoginDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/movie_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="81" column="104" lean-forward="true" selection-start-line="81" selection-start-column="104" selection-end-line="81" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/action/UserAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="134" column="36" lean-forward="true" selection-start-line="134" selection-start-column="36" selection-end-line="134" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/entity/MovieCover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/entity/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/testwangting.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/movie/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="105" selection-start-line="86" selection-start-column="105" selection-end-line="86" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/pwd.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/label_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="32" selection-start-line="84" selection-start-column="32" selection-end-line="84" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/movie/nav.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="70" selection-start-line="47" selection-start-column="70" selection-end-line="47" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/dao/AdminDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="159" column="20" lean-forward="true" selection-start-line="159" selection-start-column="20" selection-end-line="159" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/action/AdminAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/action/LabelAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/entity/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/dao/IBaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/movie/comments.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/action/CommentAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/movie/play.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="205" column="78" selection-start-line="205" selection-start-column="78" selection-end-line="205" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/dao/CommentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="134" column="44" selection-start-line="134" selection-start-column="44" selection-end-line="134" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/dao/MovieDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="166" column="54" lean-forward="true" selection-start-line="166" selection-start-column="54" selection-end-line="166" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/action/MovieAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="method#insertMovie#0;class#MovieAction#0" />
+            <element signature="method#selectAllMovie#0;class#MovieAction#0" />
+            <element signature="method#deleteMovie#0;class#MovieAction#0" />
+            <element signature="method#selectIDMovie#0;class#MovieAction#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/conn/Conn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/admin_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/movie/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2669">
+          <caret line="157" column="46" selection-start-line="157" selection-start-column="46" selection-end-line="157" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="n#interceptors#0;n#package#0;n#struts#0;n#!!top" />
+            <element signature="n#action#0;n#package#0;n#struts#0;n#!!top" />
+            <element signature="n#action#2;n#package#0;n#struts#0;n#!!top" />
+            <element signature="n#action#4;n#package#0;n#struts#0;n#!!top" />
+            <element signature="n#action#5;n#package#0;n#struts#0;n#!!top" />
+            <element signature="n#action#6;n#package#0;n#struts#0;n#!!top" />
+            <element signature="n#action#7;n#package#0;n#struts#0;n#!!top" />
+            <element signature="n#action#8;n#package#0;n#struts#0;n#!!top" />
+            <element signature="n#action#9;n#package#0;n#struts#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="javaee-facet-resources" />
+              <type id="library" />
+              <type id="jpa-descriptors" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>MiNiMovieStation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25268817" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Struts 2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>20180925</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14602076" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Struts 2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14602076" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

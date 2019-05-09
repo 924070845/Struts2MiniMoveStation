@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+    <!--前台处理包-->
+    <package name="movie" extends="struts-default" namespace="/">
+
+        <!--用户拦截器，定义如下-->
+        <interceptors>
+            <!--自定义的拦截器-->
+            <interceptor name="login" class="com.java.interceptor.LoginInterceptor"/>
+        </interceptors>
+
+        <!--进入index页面-->
+        <action name="index" class="com.java.action.IndexAction" method="index">
+            <result name="indexOK">/WEB-INF/movie/index.jsp</result>
+        </action>
+
+        <!--进入login页面-->
+        <action name="loginIndex_UserAction" class="com.java.action.UserAction" method="loginIndexUser">
+            <result name="loginIndexUserSUCCESS">/WEB-INF/movie/login.jsp</result>
+        </action>
+
+        <!--进入注册页面-->
+        <action name="registerIndex_UserAction" class="com.java.action.UserAction" method="registerIndexUser">
+            <result name="registerIndexUserSUCCESS">/WEB-INF/movie/register.jsp</result>
+        </action>
+
+        <!--进入未开发区-->
+        <action name="NonePublicAction" class="com.java.action.PublicAction" method="NoneIndex">
+            <result name="NoneIndexSUCCESS">/WEB-INF/movie/None.jsp</result>
+        </action>
+
+        <!--登录action-->
+        <action name="loginAction" method="loginUser" class="com.java.action.UserAction">
+            <result name="loginSUCCESS">/WEB-INF/movie/index.jsp</result>
+            <result name="loginERROR">/WEB-INF/movie/login.jsp</result>
+            <result name="input">/WEB-INF/movie/login.jsp</result>
+        </action>
+
+        <!--注册action-->
+        <action name="registerAction" class="com.java.action.UserAction" method="registerUser">
+            <result name="registerSUCCESS">/WEB-INF/movie/login.jsp</result>
+            <result name="registerERROR">/WEB-INF/movie/register.jsp</result>
+            <result name="input">/WEB-INF/movie/register.jsp</result>
+        </action>
+
+        <!--个人主页action-->
+        <action name="userAction" method="updateinfoUser" class="com.java.action.UserAction">
+            <param name="savePath">/face</param>
+            <result name="updateinfoSUCCESS">/WEB-INF/movie/updateOK.jsp</result>
+            <result name="input">/WEB-INF/movie/user.jsp</result>
+        </action>
+
+        <!--修改密码action-->
+        <action name="updatePasswordAction" method="updatepasswordUser" class="com.java.action.UserAction">
+            <result name="updatepasswordSUCCESS">/WEB-INF/movie/updateOK.jsp</result>
+            <result name="updatepasswordERROR">/WEB-INF/movie/pwd.jsp</result>
+            <result name="input">/WEB-INF/movie/pwd.jsp</result>
+        </action>
+
+        <!--首页展示所有电影-->
+        <action name="selectAll_MovieAction" class="com.java.action.MovieAction" method="selectAllMovie">
+            <result name="selectAllMovieSUCCESS" >/WEB-INF/movie/index.jsp</result>
+        </action>
+
+        <!--详情页面展示点击到的对应电影-->
+        <action name="selectIDMovieAction" class="com.java.action.MovieAction" method="selectIDMovie">
+            <result name="selectIDMovieSUCCESS">/WEB-INF/movie/play.jsp</result>
+        </action>
+
+        <!--搜索电影名查询电影-->
+        <action name="getTitleMovieAction" class="com.java.action.MovieAction" method="getTitleMovie">
+            <result name="getTitleMovieSUCCESS">/WEB-INF/movie/search.jsp</result>
+            <result name="input">/WEB-INF/movie/index.jsp</result>
+        </action>
+
+        <!--将评论写入数据库-->
+        <action name="InsertCommentAction" class="com.java.action.CommentAction" method="insertComment">
+            <!--进入个人首页之前先走登录拦截-->
+            <interceptor-ref name="login"/>
+            <!--日志拦截，记录action执行的时长-->
+            <interceptor-ref name="defaultStack"/>
+            <result name="login">/WEB-INF/movie/login.jsp</result>
+            <result name="InsertCommentSUCCESS" type="redirect">selectIDMovieAction?id=${movie_id}</result>
+            <result name="InsertCommentERROR" type="redirect">selectIDMovieAction?id=${movie_id}</result>
+            <result name="input" type="redirect">selectIDMovieAction?id=${movie_id}</result>
+        </action>
+
+        <!--为了查询指定电影的评论-->
+        <action name="selectIDCommentAction" class="com.java.action.CommentAction" method="selectIDComment">
+            <result name="selectIDCommentSUCCESS" type="redirect">selectIDMovieAction</result>
+        </action>
+
+        <!--核心action处理-->
+        <action name="*_*Action" class="com.java.action.{2}Action" method="{1}{2}">
+            <!--进入个人首页之前先走登录拦截-->
+            <interceptor-ref name="login"/>
+            <!--日志拦截，记录action执行的时长-->
+            <interceptor-ref name="defaultStack"/>
+            <result name="login">/WEB-INF/movie/login.jsp</result>
+            <result name="selectSUCCESS">/WEB-INF/movie/user.jsp</result>
+            <result name="removeSUCCESS">/WEB-INF/movie/index.jsp</result>
+            <result name="updatepasswordSUCCESS">/WEB-INF/movie/updateOK.jsp</result>
+            <result name="updatepasswordERROR">/WEB-INF/movie/pwd.jsp</result>
+            <result name="comPwdUserSUCCESS">/WEB-INF/movie/pwd.jsp</result>
+            <result name="selectPersonalCommentSUCCESS">/WEB-INF/movie/comments.jsp</result>
+            <allowed-methods>
+                selectUser, removeUser, updateinfoUser, updatepasswordUser,
+                comPwdUser, selectIDComment, selectPersonalComment
+            </allowed-methods>
+        </action>
+
+    </package>
+
+    <!--后台处理包-->
+    <package name="admin" extends="struts-default" namespace="/admin">
+
+        <!--进入后台首页-->
+        <action name="index" class="com.java.action.IndexAction" method="controlIndex">
+            <result name="controlIndexSUCCESS">/WEB-INF/admin/index.jsp</result>
+        </action>
+
+        <!--进入管理员登录界面-->
+        <action name="AdminIndexAction" class="com.java.action.IndexAction" method="adminIndex">
+            <result name="adminIndexSUCCESS">/WEB-INF/admin/login.jsp</result>
+        </action>
+
+        <!--进入root登录界面-->
+        <action name="RootIndexAction" class="com.java.action.IndexAction" method="rootIndex">
+            <result name="rootIndexSUCCESS">/WEB-INF/admin/root_fd_login.jsp</result>
+        </action>
+
+        <!--进入标签添加页面-->
+        <action name="labelIndex_addAction" class="com.java.action.IndexAction" method="labelIndex_add">
+            <result name="labelIndex_addSUCCESS">/WEB-INF/admin/label_add.jsp</result>
+        </action>
+
+        <!--进入电影添加页面-->
+        <action name="movieIndex_addAction" class="com.java.action.IndexAction" method="movieIndex_add">
+            <result name="movieIndex_addSUCCESS">/WEB-INF/admin/movie_add.jsp</result>
+        </action>
+
+        <!--进入添加管理员页面-->
+        <action name="adminIndex_addAction" class="com.java.action.IndexAction" method="admin_Index_add">
+            <result name="admin_Index_addSUCCESS">/WEB-INF/admin/admin_add.jsp</result>
+        </action>
+
+        <!--登录action-->
+        <action name="adminLoginAction" class="com.java.action.AdminAction" method="loginAdmin">
+            <result name="loginSUCCESS">/WEB-INF/admin/index.jsp</result>
+            <result name="loginERROR">/WEB-INF/admin/login.jsp</result>
+            <result name="input">/WEB-INF/admin/login.jsp</result>
+        </action>
+
+        <!--修改密码action-->
+        <action name="updateAdminPasswordAdmin" class="com.java.action.AdminAction" method="updateAdminPasswordAdmin">
+            <result name="updatepasswordERROR">/WEB-INF/admin/pwd.jsp</result>
+            <result name="updatepasswordSUCCESS">/WEB-INF/admin/updateOK.jsp</result>
+            <result name="input">/WEB-INF/admin/pwd.jsp</result>
+        </action>
+
+        <!--添加标签action-->
+        <action name="insertLabelAction" class="com.java.action.LabelAction" method="insertLabel">
+            <result name="insertLabelSUCCESS">/WEB-INF/admin/label_add.jsp</result>
+            <result name="insertLabelERROR">/WEB-INF/admin/admin_add.jsp</result>
+            <result name="input">/WEB-INF/admin/label_add.jsp</result>
+        </action>
+
+        <!--添加电影信息action-->
+        <action name="insertMovieAction" class="com.java.action.MovieAction" method="insertMovie">
+            <param name="savePath">/WEB-INF/movie_cover</param>
+            <result name="insertMovieSUCCESS">/WEB-INF/admin/insertOK.jsp</result>
+            <result name="input">/WEB-INF/admin/movie_add.jsp</result>
+        </action>
+
+        <!--修改电影信息-->
+        <action name="updateMovieAction" class="com.java.action.MovieAction" method="updateMovie">
+            <param name="savePath">/WEB-INF/movie_cover</param>
+            <result name="updateMovieSUCCESS">/WEB-INF/admin/updateOK.jsp</result>
+            <result name="input">/WEB-INF/admin/movie_update.jsp</result>
+        </action>
+
+        <!--root用户登录-->
+        <action name="rootAction" class="com.java.action.RootAction" method="loginRoot">
+            <result name="loginRootSUCCESS">/WEB-INF/admin/index.jsp</result>
+            <result name="loginRootERROR">/WEB-INF/admin/root_fd_login.jsp</result>
+            <result name="input">/WEB-INF/admin/root_fd_login.jsp</result>
+        </action>
+
+        <!--添加一个管理员-->
+        <action name="addAdminAction" class="com.java.action.AdminAction" method="addAdmin">
+            <result name="addAdminSUCCESS">/WEB-INF/admin/insertOK.jsp</result>
+            <result name="input">/WEB-INF/admin/admin_add.jsp</result>
+        </action>
+        <!--综合核心action-->
+        <action name="*_*Action" class="com.java.action.{2}Action" method="{1}{2}">
+            <result name="removeSUCCESS">/WEB-INF/admin/login.jsp</result>
+            <result name="updatePasswordAdminSUCCESS">/WEB-INF/admin/pwd.jsp</result>
+            <result name="selectAllLabelSUCCESS">/WEB-INF/admin/label_list.jsp</result>
+            <result name="deleteLabelSUCCESS" type="chain">selectAll_LabelAction</result>
+            <result name="selectAllUserSUCCESS">/WEB-INF/admin/user_list.jsp</result>
+            <result name="selectAllMovieSUCCESS">/WEB-INF/admin/movie_list.jsp</result>
+            <result name="deleteMovieSUCCESS" type="chain">selectAll_MovieAction</result>
+            <result name="selectIDMovieSUCCESS">/WEB-INF/admin/movie_update.jsp</result>
+            <result name="deleteUserSUCCESS" type="chain">selectAll_UserAction</result>
+            <result name="selectAllAdminSUCCESS">/WEB-INF/admin/admin_list.jsp</result>
+            <result name="deleteAdminSUCCESS" type="chain">selectAll_AdminAction</result>
+            <result name="selectAllCommentSUCCESS">/WEB-INF/admin/comment_list.jsp</result>
+            <result name="deleteUserCommentSUCCESS" type="chain">selectAll_CommentAction</result>
+
+            <allowed-methods>
+                removeAdmin, updatePasswordAdmin, selectAllLabel,
+                deleteLabel, selectAllUser, selectAllMovie, deleteMovie,
+                selectIDMovie, updateMovie, deleteUser, selectAllAdmin,
+                deleteAdmin, selectAllComment, deleteUserComment
+            </allowed-methods>
+        </action>
+    </package>
+
+    <!--加上这一句是为了使action跳转和静态资源加载兼容-->
+    <constant name="struts.action.excludePattern" value="/static/.*?"/>
+</struts>

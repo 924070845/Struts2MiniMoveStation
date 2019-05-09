@@ -1,0 +1,9 @@
+/*导航栏头像样式*/
+.nav-face{
+    background-color: #99a1b7;
+    width:45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+}

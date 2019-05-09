@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>热映电影</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<!--轮播图 开始 -->
+<div class="main_banner">
+	<div class="main_banner_wrap">
+		<canvas id="myCanvas" width="150" height="150"></canvas>
+		<div class="main_banner_box" id="m_box">
+			<a href="javascript:void(0)" class="banner_btn js_pre">
+				<span class="banner_btn_arrow"><i></i></span>
+			</a>
+			<a href="javascript:void(0)" class="banner_btn btn_next js_next">
+				<span class="banner_btn_arrow"><i></i></span>
+			</a>
+			<ul>
+				<li id="imgCard0">
+					<a href=""><span style="opacity:0;"></span></a>      
+					<img src="main_banner/lunbo1.jpg" alt="">
+					<p style="bottom:0">“两手遮天，金钱亿万”</p>
+				</li> 
+				<li id="imgCard1">
+					<a href=""><span style="opacity:0.4;"></span></a>      
+					<img src="main_banner/lunbo2.jpg" alt="">
+					<p>高希希导演作品-《游戏规则》</p>
+				</li> 
+				<li id="imgCard2">
+					<a href=""><span style="opacity:0.4;" ></span></a>        
+					<img src="main_banner/lunbo3.jpg" alt="">
+					<p>IMAX3D-奇门遁甲</p>
+				</li> 
+				<li id="imgCard3">
+					<a href=""><span style="opacity:0.4;"></span></a>      
+					<img src="main_banner/lunbo4.jpg" alt="">
+					<p>吃货也可以成为英雄</p>
+				</li> 
+				<li id="imgCard4">
+					<a href=""><span style="opacity:0.4;"></span></a>      
+					<img src="main_banner/lunbo5.jpg" alt="">
+					<p>铁血吴京，英雄本色</p>
+				</li> 
+			</ul>
+			<!--火狐倒影图层-->
+			<p id="rflt"></p>
+			<!--火狐倒影图层-->
+		</div>
+		<!--序列号按钮-->
+		<div class="btn_list">
+			<span class="curr"></span><span></span><span></span><span></span><span></span>        
+		</div>
+	</div>
+	
+</div>
+<!--轮播图 结束 -->
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+
+</body>
+</html>
